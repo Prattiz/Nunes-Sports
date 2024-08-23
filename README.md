@@ -1,4 +1,5 @@
 # Nunes Sports
+![sports](https://github.com/user-attachments/assets/6cf7f392-cf32-4ad3-90b7-debac9953831)
 
 Nunes-Sports é um sistema desenvolvido para a exibição, criação, edição e deleção de produtos vendidos pela companhia. Este projeto utiliza React.js para o front end e Node.js para o back end, com TypeScript, Prisma, SQLite e Axios.
 
