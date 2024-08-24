@@ -7,13 +7,13 @@ Nunes-Sports é um sistema desenvolvido para a exibição, criação, edição e
 
 - Front End: React.js
 - Back End: Node.js
-- TypeScript: Para tipagem estática em JavaScript
-- Prisma: ORM para interagir com a base de dados
-- SQLite: Banco de dados
-- Axios: Cliente HTTP para realizar requisições
+- TypeScript
+- Prisma
+- SQLite
+- Axios
 
 # 
-# Requisitos Funcionais
+# Requisitos Funcionais ✅
 
 - [X] O usuário deveria ser capaz de exibir produtos
 - [X] O usuário deveria ser capaz de criar novos produtos
@@ -21,16 +21,17 @@ Nunes-Sports é um sistema desenvolvido para a exibição, criação, edição e
 - [X] O usuário deveria ser capaz de deletar produtos
 - [X] O usuário deveria ter a certeza de que todas as ações na página web são refletidas na base de dados
 
-# Requisitos Não Funcionais 
+# Requisitos Não Funcionais ✅
 
 - [X] O sistema deveria garantir um bom desempenho
 - [X] O sistema deveria garantir segurança:
 - [X] O sistema deveria proporcionar uma boa usabilidade:
 - [X] Deve ser possível adicionar novas funcionalidades ou ampliar a base de dados com facilidade no futuro.
 
-# Regras de Negócio
+# Regras de Negócio ✅
 
 - [X] O usuário deveria preencher todos os campos obrigatórios para criar ou editar um produto
+- [X] O banco de dados deve ser SQLite
 
 
 # Configuração do Ambiente
